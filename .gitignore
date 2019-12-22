@@ -1,0 +1,21 @@
+# eclipse files
+.settings
+.project
+.classpath
+bin
+
+# ideaJ files
+.idea
+.iml
+
+# Gradle temp files
+.gradle
+
+# Gradle build folder
+build
+
+# Project iml
+*.iml
+
+.DS_Store
+out
